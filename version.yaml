@@ -3,4 +3,5 @@ branch: Test
 changes:
   - добавил новую ветку
   - collab with neres 10% / 100%
-  - переделал чутка логику сообщения
+  - переделал чутка логику сообщения 
+  - Test VDS Parsing
