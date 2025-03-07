@@ -1,7 +1,5 @@
 version: 2.0.0
 branch: Test
 changes:
- - working for neres collaboration, added simple key withdrawal system
- - utonemclicker
- - the best clicker on the market
- - parsed succesfully version.yaml exploit
+ - withdraw is done
+ - tmrw
